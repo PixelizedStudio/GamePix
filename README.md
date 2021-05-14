@@ -1,6 +1,8 @@
 # GamePix
 This is a Hypercasual game library to make the usage easier for commonly used codes in this genre
 
+**By Pixelized**
+
 ## Includes
 - Basic transform actions such as MoveForward,MoveFromAtoB
 
@@ -14,3 +16,4 @@ Such as a Camera Follow script.
 - After that import the script just like this: `using GamePixLibrary;`
 
 - You are ready to use the functions in the script like this: `GamePix.MoveForward(x,1f);`
+
